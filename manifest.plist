@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/richieliwork/Calendar/blob/master/3.ipa</string>
+					<string>http://www.192.168.8.100/app/ios/Development.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.flyqm</string>
+				<string>com.bst.dev</string>
 				<key>bundle-version</key>
-				<string>2.0.0</string>
+				<string>2.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
